@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4751c1a-1581-4164-917a-99057bcdd613" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fetch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b4751c1a-1581-4164-917a-99057bcdd613" name="Default Changelist" comment="Upaloded Fetch.js file in javascript files">
+      <change beforePath="$PROJECT_DIR$/Fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fetch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1600856374073</updated>
     </task>
+    <task id="LOCAL-00001" summary="Upaloded Fetch.js file in javascript files">
+      <created>1601462889744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601462889744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +77,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upaloded Fetch.js file in javascript files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upaloded Fetch.js file in javascript files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="625" y="310" key="Github.ShareDialog" timestamp="1600856467622">

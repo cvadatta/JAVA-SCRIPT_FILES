@@ -7,6 +7,7 @@ var tch=function(){
       "client_id": "1001125",
       "client_secret": "876JHG76UKFJYGVHf867rFUTFGHCJ8JHV"
     }
+    mode: 'no-cors',
 
     var data = {
           "RequestInfo": {},
