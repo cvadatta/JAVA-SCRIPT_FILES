@@ -34,3 +34,4 @@ var tch=function(){
     .then(res => console.log(res));
 
 }
+tch();
