@@ -22,6 +22,7 @@ var tch=function(){
     // request options
     var options = {
         method: 'POST',
+        mode: 'no-cors',
         body: JSON.stringify(user),
         headers: {
             'Content-Type': 'application/json'
@@ -33,5 +34,5 @@ var tch=function(){
     .then(res => res.json())
     .then(res => console.log(res));
 
-}
+};
 tch();

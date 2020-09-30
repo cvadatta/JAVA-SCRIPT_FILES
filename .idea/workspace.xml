@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4751c1a-1581-4164-917a-99057bcdd613" name="Default Changelist" comment="Upaloded Fetch.js file in javascript files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/Fetch.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601466649869</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Upaloded Fetch.js file in javascript files">
+      <created>1601466819852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601466819852</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,9 +114,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="502" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600856519834" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601466653066">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1601466821855">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601466653066" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1601466821855" />
   </component>
 </project>
