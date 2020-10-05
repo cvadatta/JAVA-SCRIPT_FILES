@@ -22,7 +22,7 @@ var tch=function(){
     // request options
     var options = {
         method: 'POST',
-        mode: 'no-cors',
+        //mode: 'no-cors',
         body: JSON.stringify(user),
         headers: {
             'Content-Type': 'application/json'
