@@ -1,5 +1,5 @@
 function Hellow(){
-    console.log("Helloooooooooo GYaaaaaaaaan woooooorrrrrld from remote server");
+    console.log("message from remote server: Helloo Egovernments foundation Bangalore :)");
 };
 Hellow();
 
